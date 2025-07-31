@@ -75,8 +75,37 @@ The Meta-Framework and papers yield insights across disciplines:
 
 ## Practical Tools
 To address real-world optimization challenges, we employ:
-- **First Principles Thinking**: Deconstructing problems to their core truths.
-- **Meta-Heuristic Algorithms**: Nature-inspired algorithms (e.g., genetic algorithms) for near-optimal solutions under constraints like incomplete information, constrained time or limited energy.
+- **First Principles Thinking**: Decomposing complexities into foundational essence to uncover core truths.
+- **A. Metaheuristic Algorithms**
+   * **Simulated Annealing (SA):** A probabilistic technique for approximating the global optimum of a given function. Inspired by annealing in metallurgy.
+   * **Harmony Search (HS):** A music-inspired algorithm that mimics the improvisation process of musicians to find a perfect state of harmony.
+   * **Social Cognitive Optimization (SCO):** An algorithm based on the social cognitive theory, simulating the process of individual learning and social influence.
+   * **Simplified Swarm Optimization (SSO):** A simplified variant of particle swarm optimization.
+- **B. Physics and Nature-Inspired Algorithms**
+   * **Water Cycle Algorithm (WCA):** Inspired by the natural water cycle process and how rivers and streams flow towards the sea.
+   * **Car Tracking Optimization Algorithm:** Mimics the behavior of cars and drivers in a race.
+- **C. Bio-Inspired & Swarm Intelligence Algorithms**
+   * **Genetic Algorithm (GA):** Based on the principles of natural selection, mutation, crossover, and inheritance.
+   * **Bacterial Foraging Algorithm (BFA):** Mimics the foraging behavior (chemotaxis) of *E. coli* bacteria.
+   * **Particle Swarm Optimization (PSO):** A population-based stochastic optimization technique inspired by the social behavior of bird flocking or fish schooling.
+   * **Ant Colony Optimization (ACO):** Inspired by the pheromone trail-laying behavior of ants to find shortest paths.
+   * **Cuckoo Search (CS):** Based on the brood parasitism of some cuckoo species.
+   * **Bat Algorithm (BA):** Inspired by the echolocation behavior of microbats.
+   * **Firefly Algorithm (FA):** Based on the flashing patterns and attraction of fireflies.
+   * **Monkey Algorithm:** Simulates the climbing, watching, and somersaulting processes of monkeys to find the highest point.
+   * **Lion Optimization Algorithm (LOA):** Mimics the cooperative hunting and territorial behaviors of lions.
+   * **Artificial Bee Colony (ABC):** Simulates the intelligent foraging behavior of a honey bee swarm.
+   * **Virus Optimization Algorithm (VOA):** Inspired by the infection and replication mechanisms of viruses.
+   * **Moth Search Algorithm:** Mimics the phototaxis and transverse orientation navigation of moths.
+   * **Shark Smell Optimization (SSO):** Based on the highly effective sense of smell and foraging strategy of sharks.
+   * **Earthworm Optimization Algorithm (EWA):** Mimics the reproductive and soil-tilling behaviors of earthworms.
+   * **Emperor Penguins Colony (EPC):** Inspired by the huddling behavior of emperor penguins for warmth.
+   * **Sperm Whale Algorithm (SWA):** Based on the echolocation and foraging strategies of sperm whales.
+   * **Marine Predators Algorithm (MPA):** Simulates the foraging strategies of ocean predators, incorporating Lévy and Brownian movements.
+- **D. Human and Socially-Inspired Algorithms**
+   * **Human Mental Search (HMS):** An algorithm that simulates human cognitive processes in problem-solving.
+   * **Hunting Search (HuS):** Inspired by the cooperative hunting strategies of predators like lions or wolves.
+   * **Migrating Birds Optimization (MBO):** Based on the V-formation flight of migrating birds, which saves energy.
 
 These tools enable practical applications of the Meta-Framework in complex problem-solving.
 

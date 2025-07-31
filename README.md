@@ -44,7 +44,7 @@ Challenging traditional moral and ontological frameworks, this paper views conce
 ### The Computational Selection Principle
 The CSP proposes that the universe's laws and constants are computationally optimal for producing complex, information-processing systems. It reframes the fine-tuning problem in cosmology, viewing life and intelligence as outcomes of a cosmic optimization process.
 
-### The Equivalent of Soul, Consciousness and Intelligence
+### The Equivalence of Soul, Consciousness and Intelligence
 Within an Intelligent Computational Cosmogenesis framework, the concepts of soul, consciousness, and intelligence are formally and functionally equivalent. They all describe systems that process information, operate on a physical substrate, and exhibit hierarchical levels of capability.</br>
 * Soul as Information Processing Software</br>
    The soul is defined here as software capable of information perception, storage, processing, and output. This definition is inspired by both computational models and the Vedāntic philosophical tradition, which views the soul as a sentient, cognitive entity that interacts with the material world through subtle mechanisms.

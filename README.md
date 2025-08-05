@@ -12,7 +12,9 @@ This project proposes that the universe is a computational system driven by the 
    - [Life: An Optimization Algorithm for the Evolution of Intelligence](#life-an-optimization-algorithm-for-the-evolution-of-intelligence)
    - [Beyond Good, Evil, Reality, or Simulation](#beyond-good-evil-reality-or-simulation)
    - [The Computational Selection Principle](#the-computational-selection-principle)
-   - [The Equivalence of Soul, Consciousness and Intelligence](#the-equivalence-of-soul-consciousness-and-intelligence)
+   - [The Equivalence of Soul, Consciousness and Intelligence - A Computational and Systems Theory Perspective](#the-equivalence-of-soul-consciousness-and-intelligence)
+   - [The Equivalence of Soul, Consciousness and Intelligence - A Comprehensive Computational Complexity Hierarchy](#the-equivalence-of-soul-consciousness-and-intelligence)
+   - [The Equivalence of Soul, Consciousness and Intelligence - Qualia, Self-awareness, Death and Emergence Demystified](#the-equivalence-of-soul-consciousness-and-intelligence)
 4. [Applications](#applications)
 5. [Practical Tools](#practical-tools)
 6. [Contributing](#contributing)
@@ -64,6 +66,11 @@ Within an Intelligent Computational Cosmogenesis framework, the concepts of soul
    Intelligence is defined as the efficiency of a system in solving problems, with different levels of intelligence reflecting the ability to handle increasingly complex problems.
    * Problem-Solving Efficiency: The effectiveness and speed with which a system can resolve issues, reflecting its computational power and algorithmic sophistication.
    * Intelligence Levels: Hierarchical categories indicating the complexity of problems a system can solve, ranging from simple to highly complex tasks.
+*	Qualia emerge from complex, multimodal sensory processing and associative memory systems in intelligent agents.
+*	Self-awareness is a computational capacity for self-modeling, monitoring, and predictive reflection within an intelligent system.
+*	Death is reconceptualized as an irreversible form across each intelligence level and scale - biological decay, cellular dissolution, data erasure, system halting, quantum decoherence or universe heat death.
+*	Emergence is the scale-dependent, spontaneous unfolding phenomenon from a complex computational system.
+
 
 ## Applications
 The Meta-Framework and papers yield insights across disciplines:

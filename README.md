@@ -9,6 +9,7 @@ This project proposes that the universe is a computational system driven by the 
 2. [The Axiom of Meta-Intelligence](#the-axiom-of-meta-intelligence)
 3. [Research Papers](#research-papers)
    - [The Limits of Intelligence and the Boundaries of Existence](#the-limits-of-intelligence-and-the-boundaries-of-existence)
+   - [Variance Theory](#variance-theory---a-transition-kernel-framework-for-time-causality-complexity-energy-intelligence-and-open-ended-persistence)
    - [Life: An Optimization Algorithm for the Evolution of Intelligence](#life-an-optimization-algorithm-for-the-evolution-of-intelligence)
    - [Beyond Good, Evil, Reality, or Simulation](#beyond-good-evil-reality-or-simulation)
    - [The Computational Selection Principle](#the-computational-selection-principle)
@@ -40,6 +41,9 @@ The framework draws on Epistemology as Eeamines how we acquire and validate know
 
 ### The Limits of Intelligence and the Boundaries of Existence
 This foundational paper argues that the universe is a computational system evolving to enhance problem-solving efficiency. Apparent inefficiencies are strategic when viewed from a higher-level, long-term perspective. It uses computational complexity theory and cosmology to explore the limits of intelligence, positing energy, time, and intelligence as the trinity defining existence.
+
+### Variance Theory - A Transition Kernel Framework for Time, Causality, Complexity, Energy, Intelligence, and Open-Ended Persistence
+Variance Theory defines reality as physically constrained state transition — variance — from which time emerges as its quasi-metric, causality as its directed topology, energy as its generator and thermodynamic cost, and intelligence as the Pareto-optimal capacity to compress, predict, and exploit variance for differential persistence under irreducible uncertainty.
 
 ### Life: An Optimization Algorithm for the Evolution of Intelligence
 This paper redefines life as an information-processing system optimized for evolving intelligence. It traces life's progression from physical and chemical origins to potential future substrates (e.g., silicon-based intelligence), arguing that life's purpose is to serve as a carrier for increasingly efficient intelligence.
